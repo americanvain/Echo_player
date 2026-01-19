@@ -1,0 +1,7 @@
+name: echo-player
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - poppler
+  - pyside6
